@@ -1,4 +1,4 @@
-## Udagram Image Filtering Microservice
+# Udagram Image Filtering Microservice
 
 ### Github Repository
 
